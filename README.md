@@ -4,19 +4,32 @@
 
 1. I'm a web frontend developer from Japan
 
-![](https://github-readme-stats.vercel.app/api/top-langs?username=yukimura-manase&show_icons=true&locale=en&layout=compact)
+![](https://github-readme-stats.vercel.app/api/top-langs?username=kazumasamatsumoto&show_icons=true&locale=en&layout=compact)
 
 ## Programming Languages
 
-<img src="https://skillicons.dev/icons?i=html,css,js,typescript,python,php," /> <br /><br />
+<img src="https://skillicons.dev/icons?i=rust,typescript" /> <br /><br />
 
 ## Frameworks and Library
 
-<img src="https://skillicons.dev/icons?i=react,next,vue,nuxt,nodejs,express,flask,fastapi,laravel,wordpress" /> <br /><br />
+<img src="https://skillicons.dev/icons?i=react,next,vue,nuxt,wasm,actix" /> <br /><br />
 
-## DB and Dev Tools etc
+## Training Everyday
 
-<img src="https://skillicons.dev/icons?i=mysql,postgresql,docker,git,github,vscode,linux,aws,azure,figma,nginx" /> <br /><br />
+<img src="https://skillicons.dev/icons?i=go,rust,wasm,actix,vitest,jest" /> <br /><br />
+
+## Cloud Service
+
+<img src="https://skillicons.dev/icons?i=aws,azure,firebase" /> <br /><br />
+
+## DB
+
+<img src="https://skillicons.dev/icons?i=mysql,postgresql,Aurora,DynamoDB" /> <br /><br />
+
+## Tool
+
+<img src="https://skillicons.dev/icons?i=docker,git,github,vscode,figma" /> <br /><br />
+
 
 <!--
 **kazumasamatsumoto/kazumasamatsumoto** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
