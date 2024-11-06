@@ -12,11 +12,11 @@
 
 ## Frameworks and Library
 
-<img src="https://skillicons.dev/icons?i=react,next,vue,nuxt,wasm,actix" /> <br /><br />
+<img src="https://skillicons.dev/icons?i=next,nest,wasm,actix" /> <br /><br />
 
 ## Training Everyday
 
-<img src="https://skillicons.dev/icons?i=go,rust,wasm,actix,vitest,jest" /> <br /><br />
+<img src="https://skillicons.dev/icons?i=typescript" /> <br /><br />
 
 ## Cloud Service
 
