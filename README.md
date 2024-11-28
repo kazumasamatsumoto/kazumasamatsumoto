@@ -10,11 +10,11 @@
 
 ![](https://github-readme-stats.vercel.app/api/top-langs?username=kazumasamatsumoto&show_icons=true&locale=en&layout=compact)
 
-## Programming Languages
+## Favourite Programming Languages
 
 <img src="https://skillicons.dev/icons?i=rust,typescript" /> <br /><br />
 
-## Frameworks and Library
+## Favourite Frameworks and Library
 
 <img src="https://skillicons.dev/icons?i=next,nest,wasm,actix" /> <br /><br />
 
