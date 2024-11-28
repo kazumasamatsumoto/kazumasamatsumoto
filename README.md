@@ -2,7 +2,11 @@
 
 # About Me
 
-1. I'm a web frontend developer from Japan
+1. こんにちは、松本一将と申します。フロントエンドエンジニアをしています。
+2. 好きな言語はRustです
+3. 最近はまっているのはコンピュータサイエンスです、特に以下の書籍が好きです。
+[書籍](https://amzn.asia/d/4o8935T)
+4. よろしくお願いします。
 
 ![](https://github-readme-stats.vercel.app/api/top-langs?username=kazumasamatsumoto&show_icons=true&locale=en&layout=compact)
 
