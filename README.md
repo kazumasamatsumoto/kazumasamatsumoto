@@ -7,6 +7,7 @@
 3. 最近はまっているのはコンピュータサイエンスです、特に以下の書籍が好きです。
 [書籍](https://amzn.asia/d/4o8935T)
 4. よろしくお願いします。
+5. マネジメント系が得意です。ギスギスした状態を朗らかにするのが得意です。
 
 ![](https://github-readme-stats.vercel.app/api/top-langs?username=kazumasamatsumoto&show_icons=true&locale=en&layout=compact)
 
