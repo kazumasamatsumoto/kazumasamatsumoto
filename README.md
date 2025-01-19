@@ -6,6 +6,8 @@
 - 好きな言語はTypeScriptです、最近Go言語を学習し始めました。
 - 最近はまっているのはコンピュータサイエンスです、特に以下の書籍が好きです。[書籍](https://amzn.asia/d/4o8935T)
 - マネジメント系が得意です。
+
+
 ![](https://github-readme-stats.vercel.app/api/top-langs?username=kazumasamatsumoto&show_icons=true&locale=en&layout=compact)
 
 ## Favourite Programming Languages
