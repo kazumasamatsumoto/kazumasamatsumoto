@@ -13,11 +13,11 @@
 
 ## Favourite Programming Languages
 
-<img src="https://skillicons.dev/icons?i=rust,typescript" /> <br /><br />
+<img src="https://skillicons.dev/icons?i=typescript" /> <br /><br />
 
 ## Favourite Frameworks and Library
 
-<img src="https://skillicons.dev/icons?i=next,nest,wasm,actix" /> <br /><br />
+<img src="https://skillicons.dev/icons?i=next,nest" /> <br /><br />
 
 ## Training Everyday
 
