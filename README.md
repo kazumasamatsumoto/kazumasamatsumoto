@@ -1,6 +1,4 @@
-## Hi there 👋
-
-# About Me
+# 自己紹介（About Me）
 
 - こんにちは、松本一将と申します。千葉県柏市に住んでいます。
 - 好きな言語はTypeScriptです、最近Go言語を学習し始めました。
@@ -10,42 +8,28 @@
 
 ![](https://github-readme-stats.vercel.app/api/top-langs?username=kazumasamatsumoto&show_icons=true&locale=en&layout=compact)
 
-## Favourite Programming Languages
+## 好きな言語（Favourite Programming Languages）
 
 <img src="https://skillicons.dev/icons?i=typescript" /> <br /><br />
 
-## Favourite Frameworks and Library
+## 好きなフレームワーク（Favourite Frameworks and Library）
 
 <img src="https://skillicons.dev/icons?i=next,nest" /> <br /><br />
 
-## Training Everyday
-
-<img src="https://skillicons.dev/icons?i=typescript" /> <br /><br />
-
-## Cloud Service
+## 経験のあるクラウドサービス（Cloud Service）
 
 <img src="https://skillicons.dev/icons?i=aws,azure,firebase" /> <br /><br />
 
-## DB
+## 使用経験のあるデータベース(Database）
 
 <img src="https://skillicons.dev/icons?i=mysql,postgresql,Aurora,DynamoDB" /> <br /><br />
 
-## Tool
+## 使用経験のある開発ツール（Tool）
 
 <img src="https://skillicons.dev/icons?i=docker,git,github,vscode,figma" /> <br /><br />
 
+## 連絡先（💬 Ask me about）
 
-<!--
-**kazumasamatsumoto/kazumasamatsumoto** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+discordまで
+kazumasa2793
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
