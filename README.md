@@ -37,8 +37,6 @@ const kazumasa = {
 
 ### 📊 Databases
 <img src="https://skillicons.dev/icons?i=mysql,postgresql" />
-![Aurora](https://img.shields.io/badge/Aurora-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![DynamoDB](https://img.shields.io/badge/DynamoDB-4053D6?style=for-the-badge&logo=amazon-dynamodb&logoColor=white)
 
 ### 🔧 Development Tools
 <img src="https://skillicons.dev/icons?i=docker,git,github,vscode,figma" />
