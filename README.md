@@ -1,35 +1,58 @@
-# 自己紹介（About Me）
+# 松本一将 | Kazumasa Matsumoto
 
-- こんにちは、松本一将と申します。千葉県柏市に住んでいます。
-- 好きな言語はTypeScriptです、最近Go言語を学習し始めました。
-- 最近はまっているのはコンピュータサイエンスです、特に以下の書籍が好きです。[書籍](https://amzn.asia/d/4o8935T)
-- マネジメント系が得意です。
+<div align="center">
+  
+[![GitHub followers](https://img.shields.io/github/followers/kazumasamatsumoto?style=social)](https://github.com/kazumasamatsumoto)
+[![Discord](https://img.shields.io/badge/Discord-kazumasa2793-7289DA?logo=discord&logoColor=white)](https://discord.com/users/kazumasa2793)
 
+</div>
 
-![](https://github-readme-stats.vercel.app/api/top-langs?username=kazumasamatsumoto&show_icons=true&locale=en&layout=compact)
+## 👋 About Me 
 
-## 好きな言語（Favourite Programming Languages）
+> 千葉県柏市在住のエンジニア。TypeScriptとコンピュータサイエンスに情熱を注ぐ。
 
-<img src="https://skillicons.dev/icons?i=typescript" /> <br /><br />
+```typescript
+const kazumasa = {
+    location: "柏市, 千葉県",
+    current_focus: "コンピュータサイエンス",
+    learning: "Go言語",
+    strengths: ["マネジメント", "TypeScript", "システム設計"],
+    favorite_book: "Computer Science: An Interdisciplinary Approach"
+};
+```
 
-## 好きなフレームワーク（Favourite Frameworks and Library）
+## 🛠️ Technical Stack
 
-<img src="https://skillicons.dev/icons?i=next,nest" /> <br /><br />
+<div align="center">
 
-## 経験のあるクラウドサービス（Cloud Service）
+### 💻 Languages
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
 
-<img src="https://skillicons.dev/icons?i=aws,azure,firebase" /> <br /><br />
+### 🚀 Frameworks & Libraries
+<img src="https://skillicons.dev/icons?i=next,nest" />
 
-## 使用経験のあるデータベース(Database）
+### ☁️ Cloud Services
+<img src="https://skillicons.dev/icons?i=aws,azure,firebase" />
 
-<img src="https://skillicons.dev/icons?i=mysql,postgresql,Aurora,DynamoDB" /> <br /><br />
+### 📊 Databases
+<img src="https://skillicons.dev/icons?i=mysql,postgresql" />
+![Aurora](https://img.shields.io/badge/Aurora-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![DynamoDB](https://img.shields.io/badge/DynamoDB-4053D6?style=for-the-badge&logo=amazon-dynamodb&logoColor=white)
 
-## 使用経験のある開発ツール（Tool）
+### 🔧 Development Tools
+<img src="https://skillicons.dev/icons?i=docker,git,github,vscode,figma" />
 
-<img src="https://skillicons.dev/icons?i=docker,git,github,vscode,figma" /> <br /><br />
+</div>
 
-## 連絡先（💬 Ask me about）
+## 📈 GitHub Stats
 
-discordまで
-kazumasa2793
+<div align="center">
+  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs?username=kazumasamatsumoto&show_icons=true&locale=en&layout=compact&theme=tokyonight)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=kazumasamatsumoto&show_icons=true&theme=tokyonight)
 
+</div>
+
+## 📫 Connect With Me
+[![Discord](https://img.shields.io/badge/Discord-kazumasa2793-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/kazumasa2793)
