@@ -47,7 +47,6 @@ const kazumasa = {
 </div>
 
 ## 📫 Connect With Me
-[テスト](https://connpass.com/user/kazumasa0509/)
 [![Discord](https://img.shields.io/badge/Discord-kazumasa2793-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/kazumasa2793)
 [![Connpass](https://img.shields.io/badge/Connpass-kazumasa0509-00B900?style=for-the-badge&logo=groups&logoColor=white)](https://connpass.com/user/kazumasa0509/)
 [![YouTube](https://img.shields.io/badge/YouTube-non--kcal-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@non-kcal)
