@@ -1,5 +1,3 @@
-はい、もちろんです。以下がコピー&ペースト用の完全なコードです。この内容をそのままGitHubの`README.md`にペーストできます：
-
 # 松本一将 | Kazumasa Matsumoto
 <div align="center">
   
@@ -18,6 +16,16 @@ const kazumasa = {
     favorite_book: "Computer Science: An Interdisciplinary Approach"
 };
 ```
+
+# ドメイン知識
+
+- 簿記会計（日商簿記2級）
+- ビジネス法務（ビジネス実務法務検定2級）
+- 製造業（町工場）
+- 知的障がい者支援
+- 配送業（クリーニング）
+
+
 
 ## 🛠️ Technical Stack
 <div align="center">
