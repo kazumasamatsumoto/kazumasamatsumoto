@@ -31,11 +31,10 @@ const kazumasa = {
 <div align="center">
 
 ### 💻 Languages
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
+<img src="https://skillicons.dev/icons?i=typescript,go,rust" />
 
 ### 🚀 Frameworks & Libraries
-<img src="https://skillicons.dev/icons?i=next,nest" />
+<img src="https://skillicons.dev/icons?i=next,nest,angular" />
 
 ### ☁️ Cloud Services
 <img src="https://skillicons.dev/icons?i=aws,azure,firebase" />
