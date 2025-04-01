@@ -25,7 +25,13 @@ const kazumasa = {
 - 知的障がい者支援
 - 配送業（クリーニング）
 
+## 資格
 
+運転免許
+日商簿記2級
+ビジネス実務法務検定2級
+ビジネスマネージャ検定
+AWS SAA、MLA
 
 ## 🛠️ Technical Stack
 <div align="center">
