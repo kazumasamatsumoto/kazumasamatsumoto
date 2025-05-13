@@ -31,7 +31,7 @@ const kazumasa = {
 日商簿記2級
 ビジネス実務法務検定2級
 ビジネスマネージャ検定
-AWS SAA、MLA
+AWS SAA、MLA、DEA
 
 ## 🛠️ Technical Stack
 <div align="center">
